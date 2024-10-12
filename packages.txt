@@ -1,0 +1,4 @@
+langchain
+chromadb
+jupyterlab
+langchain_groq
